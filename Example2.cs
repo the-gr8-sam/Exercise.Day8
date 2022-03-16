@@ -7,5 +7,6 @@ namespace Capgemini.GitExample.Day9{
 static void Main(string[] args)
 {
     WriteLine("Hi");
+    WriteLine("This is Samarth");
 }
 }
